@@ -15,4 +15,4 @@ The following procedure will help you create a new Google calendar. You can use 
 
 ## Creating calendar event
 
-1. 
+1. Open your Google Calendar
