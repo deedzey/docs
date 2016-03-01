@@ -1,6 +1,4 @@
-# Comments
-The first example is a structured documentation. The topics act as independent units of information that can be reused. They are not linked to information in previous topics and thus can be taken out of the context and used as such. The writing style is aiming Simplified Technical English (STE) and tone is official and technical. Procedures describe all set up options as they would be written in a technical manual.  
-The second example is aiming relaxed and friendly tone with descriptions closer to the everyday user. A similar tone can be seen in FAQs of modern web products. Procedures describe only important steps, the rest is left to the users' understanding. 
+
 ---
 # EXAMPLE 1
 ---
@@ -73,16 +71,3 @@ There are more ways to create an event in your calendar. You can either use the 
 6. Press <Enter> or click the *Create event* button.
 
 ---
-# EXAMPLE 2
----
-# FAQ
-## How do I add new calendar?
-You can keep track of different appointments seperately from your main calendar. Create for example work or personal calendar. You can add new calendars only in a web browser on computer or mobile device.
-1. On your computer or mobile device, open [Google Calendar](https://calendar.google.com).
-1. On the left side of the page, next to *My calendars*, click the drop-down menu  > *Create new calendar*.
-1. Add your calendar name. 
-1. If you want to share your calendar, see the chapter *How to share your calandar with others*.
-1. At the top of the page, click *Create Calendar*.
-
-## How do I create an event?
-
