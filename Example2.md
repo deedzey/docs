@@ -10,7 +10,7 @@ In addition to the default Google Calendar, you can create other calendars to ke
 2. If necessary, log in using your credentials.
 3. On the left side of the page, select *My calendars*.
 4. Click on the drop-down menu arrow, as shown in the following picture:
-![Fig 1](https://photos-6.dropbox.com/t/2/AAD2OM1x0Na1vB5y_htpxNphFYLzJ-yYznxOcPlCT0Iw9A/12/30944204/png/32x32/1/_/1/2/Screenshot%202016-02-28%2015.53.43.png/EMutsxcY1zogAigC/KVz9kVr8yC6hy-hnXHcafD4HKYgy8u2jWyURThvC3RA?size=1024x768&size_mode=3)
+![Fig 1](https://dl.dropboxusercontent.com/u/30944204/Screenshot%202016-03-01%2020.49.39.png)
     Figure 1: Creating a new calendar
 5. Select *Create a new calendar*.
 6. Add the name of the calendar in the *Calendar name* field.
