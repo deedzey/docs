@@ -1,4 +1,4 @@
-# About these documents
+# Documentation style demo
 ## Example 1 - Friendly tone
 The first example has a relaxed and friendly tone with descriptions close to the everyday user. A similar tone can be found in FAQs of modern web products. Procedures describe **only important steps**. The rest is left to the users' understanding.
 
