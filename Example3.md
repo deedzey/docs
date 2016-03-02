@@ -41,3 +41,5 @@ Create a new card by clicking **Add a card**.
 
 Now you can drag and drop the cards between lists depending on which stage of your project they are.
 ![Moving crds](https://dl.dropboxusercontent.com/u/30944204/Screenshot%202016-03-02%2018.38.12.png)
+
+Voila, now you are ready to track your projects in Trello!
