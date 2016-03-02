@@ -14,7 +14,7 @@ In this tutorial, you will see how to get up and running with Trello in less tha
 
 Signing up for Trello is easy! Use your email or Google account. The basic account is free and good for running your next project.
 
-![Trello Sign up](https://dl.dropboxusercontent.com/u/30944204/Screenshot%202016-03-02%2017.27.11.png)
+![Trello Sign up](https://dl.dropboxusercontent.com/u/30944204/Screenshot%202016-03-02%2023.21.09.png)
 
 
 # Adding a board
