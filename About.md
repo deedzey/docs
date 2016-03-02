@@ -1,4 +1,4 @@
-# Documentation style demo
+# Documentation - style demo
 ## Example 1 - Friendly tone
 The first example has a relaxed and friendly tone with descriptions close to the everyday user. A similar tone can be found in FAQs of modern web products. Procedures describe **only important steps**. The rest is left to the users' understanding.
 
@@ -10,15 +10,15 @@ The second example is a structured documentation. The topics act as independent 
 Link: [Example 2](https://github.com/deedzey/docs/blob/master/Example2.md)
 
 ## Example 3 - Visual tutorial
-The third example is friendly tutorial style for non-technical users. It uses screenshots with minimum text.
+The third example is a friendly tutorial style for non-technical users. It uses mostly screenshots with minimum text.
 
 Link: [Example 3](https://github.com/deedzey/docs/blob/master/Example3.md)
 
 ## My documentation workflow
 
- 1. Research with developers
- 1. Draft written with markdown
+ 1. Researching with developers
+ 1. Drafting text with markdown
  1. Testing with real people in document's target group
  1. Fixing errors
- 1. Publish on Github
- 1. Publish on product's website with custom, beautiful, stylesheets
+ 1. Publishing on Github
+ 1. Publishing on product's website with custom stylesheets
