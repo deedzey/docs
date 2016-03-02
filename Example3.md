@@ -23,6 +23,7 @@ First, you need to create a new board. Boards in Trello represent projects, prod
   
 You can add a new board straight from the dashboard.
 ![Create a new board](https://dl.dropboxusercontent.com/u/30944204/Screenshot%202016-03-02%2017.27.21.png)
+
 You can also click on **+** next to your name in the header. Select **Create a new board**.
 ![Create a new board](https://dl.dropboxusercontent.com/u/30944204/Screenshot%202016-03-02%2017.27.28.png)
 
@@ -36,7 +37,7 @@ We cannot do much inside a board without creating at least one list. Each list f
 
 Cards are tasks, to-dos or action points that you collect and place in lists. 
 
-Create a new card by clicking **Add a card**.
+Create a new card by clicking **Add a card**.  
 ![Adding a card](https://dl.dropboxusercontent.com/u/30944204/Screenshot%202016-03-02%2018.30.42.png)
 
 Now you can drag and drop the cards between lists, depending on which stage of your project they belong to.
