@@ -18,6 +18,7 @@ There is more than just one way to create a calendar event. The easiest is to si
 ### Click an empty spot in your calendar:
 1. Open [Google Calendar](https://calendar.google.com) in your web browser.
 1. Click on the time when you want to create your event.
+![Click empty slot in calendar](https://dl.dropboxusercontent.com/u/30944204/Screenshot%202016-03-02%2012.14.22.png)
 1. Name your event.
 1. If you have more than just one calendar, select the calendar from the drop-down menu.
 1. Click **Create event**.
@@ -33,8 +34,11 @@ There is more than just one way to create a calendar event. The easiest is to si
 
 ### Use the Quick Add:
 1. Open [Google Calendar](https://calendar.google.com) in your web browser.
-1. In the top left corner, next to the **Create** button, click the drop-down menu arrow.
-1. Write the event name, date and time in a free form. For example:  
+1. In the top left corner, next to the **Create** button, click the drop-down menu arrow. 
+![Click create button](https://dl.dropboxusercontent.com/u/30944204/Screenshot%202016-03-02%2012.16.14.png)
+1. Write the event name, date and time in a free form. 
+![Quick Add](https://dl.dropboxusercontent.com/u/30944204/Screenshot%202016-03-02%2012.19.05.png)
+For example:  
   *Dinner with Michael tomorrow 7pm*  
   *Gym on Friday*  
   See the section *Tips for using Quick Add* for more examples and hints.
