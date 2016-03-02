@@ -45,3 +45,5 @@ There is more than just one way to create a calendar event. The easiest is to si
 # FAQ for iPhone
 ## How do I add new calendar?
 The iPhone calendar app does not support adding calendars. Please, see the section *How do I add new calendar?* in FAQ (Computer).
+
+...
